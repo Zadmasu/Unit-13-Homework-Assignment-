@@ -10,9 +10,9 @@ You were hired as a digital transformation consultant by one of the most promine
 # Included Files
 
 
-### A python script of the final lambda function.
-### Bot exported from amazon (zip file)
-### I included two short videos, the first one showing the robo advisor in action without lamda function and the second one with lamda function. 
+### *A python script of the final lambda function.
+### *Bot exported from amazon (zip file)
+### *I included two short videos, the first one showing the robo advisor in action without lamda function and the second one with lamda function. 
 
 # Encountered problems.
 
