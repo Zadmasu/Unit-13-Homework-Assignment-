@@ -10,11 +10,10 @@ You were hired as a digital transformation consultant by one of the most promine
 # Included Files
 
 
-A python script of the final lambda function.
-Bot exported from amazon
-lamda_function.py : File contains the lamda function code
-I included two short videos, the first one showing the robo advisor in action without lamda function and the second one with lamda function. 
+### A python script of the final lambda function.
+### Bot exported from amazon (zip file)
+### I included two short videos, the first one showing the robo advisor in action without lamda function and the second one with lamda function. 
 
 # Encountered problems.
 
-My Robo Advisor bot works fine without the lambda but encountered a problem when integrating the lambda function. I tried to debug but I could not able to solve the problem. I included two videos of Robo advisor in action. 
+My Robo Advisor bot works correct without the lambda but encountered a problem when integrating the lambda function. I tried to debug the issue but I could not able to solve the problem. I included two videos of Robo advisor in action. 
